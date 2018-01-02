@@ -1,5 +1,5 @@
-# CES_V
-Interfaz gráfico para el Campeonato de España de Simulación V
+# CES Manager
+Interfaz gráfico para el Campeonato de España de Simulación
 
 Este proyecto servíra como herramienta principal del Campeonato de España de Simulación para consultar / editar / promocionar toda la información relativa al Campeonato.
 
@@ -23,4 +23,4 @@ Consultar Puntuacion del Campeonato (Ver progreso, estadísticas del equipo etc.
 Desde aqui se podrá cambiar ajustes de la interfaz, sistemas de loggeo y probablemente todas las opciones de debug
 
 # Información técnica
-TODO
+TBD
